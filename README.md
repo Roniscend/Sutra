@@ -270,7 +270,3 @@ frame becomes *lost* rather than pending forever.
 ./gradlew :app:testDebugUnitTest
 ./server/.venv/Scripts/python.exe -m pytest server/tests
 ```
-
-`SUTRA.md` is the short technical tour, `WORKING_README.md` explains what is
-happening inside the app and what went wrong on the way, and `PITCH.md` is the
-argument for it.
